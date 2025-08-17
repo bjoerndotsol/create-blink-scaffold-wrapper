@@ -1,12 +1,9 @@
 {
-    "name": "create-blink-scaffold",
-    "version": "1.0.0",
+    "name": "create-blinks-app",
+    "version": "1.1.0",
     "description": "Wrapper for @dialectlabs/create-blink-scaffold",
     "bin": {
-        "create-blink-scaffold": "./index.js"
+        "create-blinks-app": "./index.js"
     },
-    "license": "MIT",
-    "dependencies": {
-        "@dialectlabs/create-blink-scaffold": "latest"
-    }
+    "license": "MIT"
 }
